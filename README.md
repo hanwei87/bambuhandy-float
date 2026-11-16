@@ -1,7 +1,7 @@
 # 🖨️ Bambu Float Widget (拓竹打印悬浮窗)
 
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_printer.xml" width="96" height="96" alt="Bambu Float Icon" />
+  <img src="screenshots/logo.png" width="96" height="96" alt="Bambu Float Icon" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hanwei87/bambuhandy-float/releases/latest"><img src="https://img.shields.io/github/v/release/hanwei87/bambuhandy-float?label=Download%20APK&color=brightgreen&logo=android" alt="Download APK"></a>
+  <a href="https://github.com/hanwei87/bambuhandy-float/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v1.0.0-brightgreen.svg?style=flat&logo=android" alt="Download APK"></a>
   <a href="#-功能特性"><img src="https://img.shields.io/badge/Platform-Android_8.0+-3DDC84.svg?style=flat&logo=android" alt="Android Version"></a>
   <a href="#-技术架构"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?style=flat&logo=kotlin" alt="Kotlin"></a>
   <a href="#-快速开始"><img src="https://img.shields.io/badge/Architecture-Service_%2B_Overlay-blue.svg?style=flat" alt="Architecture"></a>
