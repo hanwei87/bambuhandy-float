@@ -10,11 +10,24 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/hanwei87/bambuhandy-float/releases/latest"><img src="https://img.shields.io/github/v/release/hanwei87/bambuhandy-float?label=Download%20APK&color=brightgreen&logo=android" alt="Download APK"></a>
   <a href="#-功能特性"><img src="https://img.shields.io/badge/Platform-Android_8.0+-3DDC84.svg?style=flat&logo=android" alt="Android Version"></a>
   <a href="#-技术架构"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?style=flat&logo=kotlin" alt="Kotlin"></a>
   <a href="#-快速开始"><img src="https://img.shields.io/badge/Architecture-Service_%2B_Overlay-blue.svg?style=flat" alt="Architecture"></a>
   <a href="#-开源协议"><img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" alt="License"></a>
 </p>
+
+---
+
+## 📥 软件下载 (Download)
+
+无需自行搭建 Android 开发环境，直接下载安装包即可上手使用：
+
+- 🚀 **最新版本下载**：[👉 点击前往 GitHub Releases 发布页下载最新版 APK](https://github.com/hanwei87/bambuhandy-float/releases/latest)
+- 📦 **直链下载 (v1.0.0)**：[`BambuFloat-v1.0.0.apk`](https://github.com/hanwei87/bambuhandy-float/releases/download/v1.0.0/BambuFloat-v1.0.0.apk)
+- 📌 **版本列表归档**：[查看所有历史 Releases 版本](https://github.com/hanwei87/bambuhandy-float/releases)
+
+> 💡 **安装提示**：下载 `.apk` 文件后，在手机文件管理器或浏览器下载中心点击安装。首次启动请在系统设置中允许**“显示在其他应用的上层（悬浮窗权限）”**。
 
 ---
 
