@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">拓竹悬浮窗</string>
+    <string name="title_config">拓竹打印机监控</string>
+    <string name="desc_config">随时在手机顶层悬浮查看打印进度与剩余时间</string>
+    <string name="region_cn">中国区 (China)</string>
+    <string name="region_global">国际区 (Global)</string>
+    <string name="account_hint">拓竹账号 (手机号或邮箱)</string>
+    <string name="password_hint">账号密码</string>
+    <string name="btn_login">登录并获取打印机</string>
+    <string name="btn_switch_account">切换账号</string>
+    <string name="select_device_title">选择要监控的打印机</string>
+    <string name="float_toggle">开启桌面悬浮窗</string>
+    <string name="float_permission_title">悬浮窗权限</string>
+    <string name="float_permission_btn">去授予悬浮窗权限</string>
+    <string name="status_connected">已连接云端</string>
+    <string name="status_disconnected">未连接</string>
+    <string name="status_printing">正在打印</string>
+    <string name="status_paused">已暂停</string>
+    <string name="status_idle">待机空闲</string>
+    <string name="open_bambu_handy">打开 Bambu Handy</string>
+    <string name="channel_name">拓竹打印监控通知</string>
+    <string name="channel_desc">用于在后台保持长连接并展示实时打印进度</string>
+</resources>
