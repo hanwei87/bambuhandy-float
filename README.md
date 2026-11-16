@@ -98,8 +98,8 @@ app/src/main/java/com/bambu/floatwidget/
 
 1. **克隆代码仓库**
    ```bash
-   git clone https://github.com/your-username/BambuFloatWidget.git
-   cd BambuFloatWidget
+   git clone https://github.com/hanwei87/bambuhandy-float.git
+   cd bambuhandy-float
    ```
 
 2. **使用 Gradle 编译 Debug APK**
